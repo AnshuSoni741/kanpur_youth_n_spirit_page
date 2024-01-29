@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.heading{
+    color: brown;
+    background-color: orange;
+    font-size: 7vh;
+    padding: 5vh;
+    text-align: center;
+    height: 10vh;
+    width: 208vh;
+    padding-top: 3vh;
+    padding-bottom: 0vh;
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading h1{
+    font-size: 7vh;
+    margin-left: 20%;
+    padding-top: 10px;
+}
+
+#image_logo_div{
+    background-color:yellow;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    height: 25vh;
+    width: 208vh;
+}
+
+#kanpur_logo{
+    background-color: yellow;
+    width: 20%;
+    height: 37vh;
+    margin: 0px;
+    padding: 0px;
+    position:absolute;
+    top: -10vh;
+}
+
+
+#mahapurush{
+background-color: blue;
+height: 27vh;
+width : 80%;
+position: absolute;
+right: 0px;
+}
+
+
+#heading_container{
+    background-color: orangered;
+    padding: 10px 10px 20px 10px;
+    overflow: hidden;
+}
+
+#Form_heading{
+    background-color: orange;
+    text-align: center;
+    font-size: 5vh;
+}
+
+
+#below_body_container{
+    display:flex;
+}
+
+#mid_form_div{
+    background-color: orange;
+    /* height: 150vh; */
+    float: left;
+}
+
+
+
+.form_container{
+    background-color: rgb(172, 58, 17);
+    width: 120vh;
+    height: 90%;
+    margin: 20px;
+    padding: 10px;
+    border: 0.4vh black dotted;
+    border-radius: 3vh;
+}
+
+.form_row{
+    height: 7vh;
+    width: 110vh;
+    background-color: silver;
+    /* padding: 0px 100px 0px 100px; */
+    margin: auto;
+    border-radius: 1rem;
+    margin-bottom: 2vh;
+}
+
+.form_row label{
+    font-size: 30px;
+    font-weight:bolder;
+    width: 400px;    
+    margin-left: 15vh;
+}
+
+
+.form_row input{
+    width: 30vh;
+    margin: auto;
+}
+
+
+
+
+
+
+
+#Left_img img{
+    margin-left: 5vh;
+    margin-top: 20vh;
+    float: left;
+    width: 35vh;
+}
+
+
+#Right_img img{
+    margin-top: 20vh;
+    width: 35vh;
+    /* float: left; */
+}
+
+
+#footer{
+    background-color: orange;
+    /* float: left; */
+    /* height: 200px; */
+}
+
+.icon_style{
+    width: 10vh;
+}
+
+.btn{
+    width: 20vh;
+    font-size: 3vh;
+    margin-top: 1vh;
+    margin-left: 20vh;
+    border-radius: 2rem;
+    font-weight: bolder;
+}
+
+.Ctrl_pannel{
+    margin-top: 5vh;
+    margin-bottom: 50px;
+    background-color:  rgb(172, 58, 17);
+    height: 8vh;
+}
+
+
+.submit{
+    margin-left: 30vh;
+
+}
+
+.site_heading{
+    font-size: 5vh;
+}
+
+.footer_body{
+    padding-bottom: 5vh;
+    background-color: ;
+}
