@@ -1,7 +1,10 @@
 *{
     margin: 0;
     padding: 0;
+}
 
+.body{
+    background-color: rgb(235, 163, 30);
 }
 .heading{
     color: brown;
@@ -56,12 +59,14 @@ right: 0px;
 #heading_container{
     background-color: orangered;
     padding: 10px 10px 20px 10px;
+    width:211vh;
 }
 
 #Form_heading{
     background-color: orange;
     text-align: center;
     font-size: 5vh;
+    width:211vh;
 }
 
 
@@ -133,8 +138,7 @@ right: 0px;
 
 #footer{
     background-color: orange;
-    /* float: left; */
-    /* height: 200px; */
+    width: 211vh;
 }
 
 .icon_style{
@@ -169,5 +173,4 @@ right: 0px;
 
 .footer_body{
     padding-bottom: 5vh;
-    background-color: ;
 }
